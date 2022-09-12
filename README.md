@@ -1,2 +1,2 @@
 # Tarea-1---Red-b-sica-de-clasificaci-n
-Red básica de clasificación aplicada al reconocimiento de dígitos de la base de datos mnist
+Red basica de clasificacion aplicada al reconocimiento de digitos de la base de datos mnist
